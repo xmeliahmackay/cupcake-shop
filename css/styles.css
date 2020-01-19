@@ -1,7 +1,17 @@
+
 .flashy {
   color: red;
   font-style: italic;
+  text-align: center;
 }
 .cupcakepic {
   width: 60%;
+  float: center;
+}
+.cupcake {
+  text-align: center;
+}
+.best {
+  background-color: lavender;
+  text-align: center;
 }
